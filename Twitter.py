@@ -11,4 +11,3 @@ def main():
 
     # Get Timeline
     consumer_timeline = api.home_timeline()
-2
