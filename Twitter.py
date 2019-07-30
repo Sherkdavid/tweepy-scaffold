@@ -11,3 +11,6 @@ def main():
 
     # Get Timeline
     consumer_timeline = api.home_timeline()
+
+if __name__ == '__main__':
+    main()
